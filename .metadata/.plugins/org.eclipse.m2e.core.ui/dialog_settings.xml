@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Phase-1"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\CustomerAccountTracker"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Spring Assignments\Spring Assignments\Spring21"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Spring Assignments\Spring Assignments\Spring22"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Spring Assignments\Spring Assignments\Spring12"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Spring Assignments\Spring Assignments\Spring1"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Spring Assignments\Spring Assignments\Spring"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Assignment-5"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\OnlineAssessment"/>
+			<item value="C:\Users\dileep kumar\Favorites\Downloads\Springdata"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

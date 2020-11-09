@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootAssignment_4"/>
+<aop-project name="SpringBootAssignment_2"/>
+<aop-project name="Spring_2"/>
+<aop-project name="Spring_4"/>
+<aop-project name="OnlineAssessment"/>
+<aop-project name="SpringDemoAssignment"/>
+<aop-project name="Firstspring"/>
+<aop-project name="MyWebApp"/>
+<aop-project name="SpringBootAssignment_1"/>
+<aop-project name="SpringBootAssignment_3"/>
+<aop-project name="SpringBootAssignment_5"/>
+<aop-project name="Spring_1"/>
+<aop-project name="Spring_3"/>
+<aop-project name="Spring_5"/>
+<aop-project name="BootJpa"/>
+<aop-project name="Bank-App"/>
+<aop-project name="SpringDataRest"/>
+<aop-project name="Assignment5"/>
+<aop-project name="TH20094506_bank"/>
+</aop-reference-model>
